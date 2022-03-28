@@ -2,6 +2,5 @@
 int main(){
 
 printf("Hola mundo \n");
-printf("Precionar ENTER para continuar");
-getchar();
+return 0;
 }
